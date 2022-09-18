@@ -1,0 +1,18 @@
+from PySimpleGUI import DEFAULT_PROGRESS_BAR_COLOR
+
+ATHENA_THEME = {
+    'BACKGROUND': '#383838',
+    'TEXT': '#CDBE78',
+    'INPUT': '#066163',
+    'TEXT_INPUT': '#000000',
+    'SCROLL': '#383838',
+    'BUTTON': ('#000000', '#CDBE78'),
+    'PROGRESS': DEFAULT_PROGRESS_BAR_COLOR,
+    'BORDER': 0, 'SLIDER_DEPTH': 0,
+    'PROGRESS_DEPTH': 0,
+    'ACCENT1': '#FF0000',
+    'ACCENT2': '#FF0000',
+    'ACCENT3': '#FF0000'
+}
+FONT_NAME = 'Bahnschrift Light'
+FONT = (FONT_NAME, 20)
